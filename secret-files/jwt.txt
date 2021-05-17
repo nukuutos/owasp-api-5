@@ -1,0 +1,5 @@
+JWT storing in cookies as accessToken
+And it includes role and username of a user
+
+JWT key:
+thisisajwtkeyforaccesstokengoodluckguys
